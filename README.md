@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Brindha
 
-<!--
-**brindhaArikrishnan/brindhaArikrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate IT student interested in building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Information Technology Student
+- 💻 Interested in Full Stack Development
+- 🌱 Currently learning Java, Python, JavaScript and Node.js
+- 🤖 Interested in AI/ML and Hackathons
+- 📚 Always learning and building projects
+
+## 🛠️ Skills
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Project
+
+### Student Task Manager
+A simple web-based task management application.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## 🎯 Career Goal
+
+To become a skilled Full Stack Developer and build useful real-world applications.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/brindha-arikrishnan
+- GitHub: https://github.com/brindhaArikrishnan
