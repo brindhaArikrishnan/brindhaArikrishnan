@@ -47,7 +47,7 @@ To become a skilled **Full Stack Developer** and build useful, innovative real-w
 ## 📫 Connect With Me
 
 - 💻 GitHub: [brindhaArikrishnan](https://github.com/brindhaArikrishnan)
-- 🔗 LinkedIn: Add your LinkedIn profile link here
+- 🔗 LinkedIn: www.linkedin.com/in/brindha-arikrishnan
 
 ---
 
