@@ -1,40 +1,54 @@
-# Hi 👋 I'm Brindha
+# 👋 Hi, I'm Brindha
 
-### B.Tech Information Technology Student | Aspiring Full Stack Developer
+### 💻 B.Tech Information Technology Student | Aspiring Full Stack Developer
 
-I'm a passionate IT student interested in building web applications and learning new technologies.
+I'm an Information Technology student passionate about **Full Stack Development, AI/ML, and building real-world applications**.
 
 ## 🚀 About Me
 
 - 🎓 B.Tech Information Technology Student
-- 💻 Interested in Full Stack Development
-- 🌱 Currently learning Java, Python, JavaScript and Node.js
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning Java, Python, JavaScript & Node.js
 - 🤖 Interested in AI/ML and Hackathons
-- 📚 Always learning and building projects
+- 🛠️ Building practical projects to improve my skills
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
+**Languages**
 - Java
 - Python
+- JavaScript
+
+**Frontend**
 - HTML
 - CSS
 - JavaScript
+
+**Backend & Database**
 - Node.js
 - MySQL
-- Git & GitHub
 
-## 📌 Featured Project
+**Tools**
+- Git
+- GitHub
+- VS Code
 
-### Student Task Manager
-A simple web-based task management application.
+## 📌 Featured Projects
 
-**Technologies:** HTML, CSS, JavaScript
+- 🤖 **AI-Teacher** — AI-powered educational web application
+- 🌐 **CodeOrbit Personal Portfolio** — Responsive personal portfolio website
+- ⚙️ **CodeOrbit REST API** — RESTful API using JavaScript & Node.js
+- 📋 **Student Task Manager** — Web application for managing student tasks
 
 ## 🎯 Career Goal
 
-To become a skilled Full Stack Developer and build useful real-world applications.
+To become a skilled **Full Stack Developer** and build useful, innovative real-world applications.
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/brindha-arikrishnan
-- GitHub: https://github.com/brindhaArikrishnan
+- 💻 GitHub: [brindhaArikrishnan](https://github.com/brindhaArikrishnan)
+- 🔗 LinkedIn: Add your LinkedIn profile link here
+
+---
+
+⭐ Thanks for visiting my profile!
